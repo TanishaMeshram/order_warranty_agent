@@ -1,0 +1,14 @@
+ORDER CONFIRMATION
+
+Order ID: ORD-1001
+Purchase Date: 2026-09-18
+Customer: Demo Shopper
+
+ITEMS
+
+1. Cotton Oversized T-Shirt | Category: Clothing | Quantity: 2 | Price: INR 799 each
+
+Subtotal: INR 1598
+Tax: INR 288
+Total Paid: INR 1886
+Payment Method: UPI

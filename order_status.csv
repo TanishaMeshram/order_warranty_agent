@@ -1,0 +1,6 @@
+order_id,status,estimated_delivery,last_update
+ORD-1001,Shipped,2026-09-24,Package has left the warehouse
+ORD-1002,Processing,2026-09-26,Order is being prepared
+ORD-1003,Delivered,2026-09-20,Package delivered successfully
+ORD-1004,Out for Delivery,2026-09-22,Package is with the delivery agent
+ORD-1005,Cancelled,-,Order was cancelled by the customer
